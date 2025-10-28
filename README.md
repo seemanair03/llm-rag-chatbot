@@ -39,3 +39,12 @@ It’s like giving GPT-4 a cheat sheet before it answers.
 The prompt is sent to GPT-4 via Azure OpenAI. The model reads the context and the question, then generates a natural-language answer.
 
 Now the chatbot responds — intelligently and accurately.
+
+
+## 📝 Dive Deeper into the Code
+
+Want to understand the "why" behind the code? I've written a detailed blog post that walks through the logic, tech choices, and implementation strategies used in this project.
+
+👉 [Read the full explanation here](https://seemanair.com/2025/10/27/building-a-pdf-powered-chatbot-with-azure-openai-and-langchain/)
+
+Whether you're learning, reviewing, or just curious — this post will give you the full picture.
